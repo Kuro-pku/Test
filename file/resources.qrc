@@ -1,0 +1,42 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>images/background.jpg</file>
+        <file>images/Pea.png</file>
+        <file>images/gold_icon.png</file>
+        <file>images/pause_icon.png</file>
+        <file>images/play_icon.png</file>
+        <file>images/menu_icon.png</file>
+        <file>images/moss_block.png</file>
+        <file>images/dirt_path_top.png</file>
+        <file>images/countdown.gif</file>
+        <file>waves.txt</file>
+        <file>towers.txt</file>
+        <file>images/tower_icon_1.png</file>
+        <file>images/defeat_char.gif</file>
+        <file>images/victory_char.gif</file>
+        <file>images/soldier_move.gif</file>
+        <file>images/dog_move.gif</file>
+        <file>images/soldier_idle.gif</file>
+        <file>images/dog_idle.gif</file>
+        <file>images/tank_move.gif</file>
+        <file>images/tank_idle.gif</file>
+        <file>images/tank_move_begin.gif</file>
+        <file>images/tank_move_end.gif</file>
+        <file>images/exusiai_shooter.gif</file>
+        <file>images/upgrade_icon.png</file>
+        <file>images/delete_icon.png</file>
+        <file>images/lock.webp</file>
+        <file>images/carrot_full.png</file>
+        <file>images/carrot_mid.png</file>
+        <file>images/carrot_low.png</file>
+        <file>images/carrot_damaged.png</file>
+        <file>images/victory.png</file>
+        <file>images/spawn_point.png</file>
+        <file>maps/map0.txt</file>
+        <file>maps/map1.txt</file>
+        <file>maps/map2.txt</file>
+        <file>maps/map3.txt</file>
+        <file>maps/map4.txt</file>
+        <file>maps/map5.txt</file>
+    </qresource>
+</RCC>

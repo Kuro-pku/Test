@@ -1,0 +1,63 @@
+Constructor done, showing menu
+loadLevel(0) START
+clearGameObjects() START
+cleanupGame() START
+cleanupGame: mobList size=0, groundList size=0
+cleanupGame: mob cleanup done
+cleanupGame: calling scene->items()...
+cleanupGame: scene has 0 items
+cleanupGame: found 0 shooters, 0 shells
+cleanupGame: shooter/shell cleanup done
+cleanupGame: ground reset done
+cleanupGame: carrot reset done
+cleanupGame: exitShooterMenu done
+cleanupGame() END
+clearGameObjects() END
+loadLevel: opening :/new/prefix1/maps/map0.txt
+loadLevel: file opened, parsing grid...
+loadLevel: grid done, parsing carrot...
+loadLevel: carrot done, parsing spawn points...
+loadLevel: spawn done (1 points), parsing waves...
+loadLevel: parsing done, waves=10, starting countdown
+Countdown done, starting game!
+Timer tick 1, mobList size=0
+Timer tick 2, mobList size=0
+Timer tick 3, mobList size=0
+Timer tick 4, mobList size=0
+Timer tick 5, mobList size=0
+spawnNextMonster: type=1 hp=50 spawnId=0 pos=(130,370)
+spawnNextMonster: type=1 hp=50 spawnId=0 pos=(130,370)
+spawnNextMonster: type=1 hp=50 spawnId=0 pos=(130,370)
+clearGameObjects() START
+cleanupGame() START
+cleanupGame: mobList size=0, groundList size=91
+cleanupGame: mob cleanup done
+cleanupGame: calling scene->items()...
+cleanupGame: scene has 103 items
+cleanupGame: found 4 shooters, 2 shells
+cleanupGame: shooter/shell cleanup done
+cleanupGame: ground reset done
+cleanupGame: carrot reset done
+cleanupGame: exitShooterMenu done
+cleanupGame() END
+clearGameObjects() END
+loadLevel(1) START
+clearGameObjects() START
+cleanupGame() START
+cleanupGame: mobList size=0, groundList size=0
+cleanupGame: mob cleanup done
+cleanupGame: calling scene->items()...
+cleanupGame: scene has 0 items
+cleanupGame: found 0 shooters, 0 shells
+cleanupGame: shooter/shell cleanup done
+cleanupGame: ground reset done
+cleanupGame: carrot reset done
+cleanupGame: exitShooterMenu done
+cleanupGame() END
+clearGameObjects() END
+loadLevel: opening :/new/prefix1/maps/map1.txt
+loadLevel: file opened, parsing grid...
+loadLevel: grid done, parsing carrot...
+loadLevel: carrot done, parsing spawn points...
+loadLevel: spawn done (2 points), parsing waves...
+loadLevel: parsing done, waves=2, starting countdown
